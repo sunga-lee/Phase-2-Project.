@@ -13,7 +13,7 @@ to access this project on your local files, you can clone it using this steps
 
   Open the Terminal
 
-Clone the repository:git@github.com:Essyuge/react-Project-phase-2.git
+Clone the repository:git@github.com:sunga-lee/react-Project-phase-2.git
 
 
 Change Directory: cd react-Project-phase-2
