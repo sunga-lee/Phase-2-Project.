@@ -37,13 +37,13 @@ const searchResults=Books.filter(Book => {
     <section>
     <h2>Books</h2>
     <div className='filter'>
-<button style={{color: "darkkhaki"}} onClick={()=>setSelectedCategory("")}>All</button>
-<button style={{color: "darkkhaki"}} onClick={()=>setSelectedCategory("Non-Fiction")}>Non-Fiction</button>
-<button style={{color: "darkkhaki"}} onClick={()=>setSelectedCategory("Comic")}>Comic</button>
-<button style={{color: "darkkhaki"}} onClick={()=>setSelectedCategory("Thiller")}>Thriller</button>
-<button style={{color: "darkkhaki"}} onClick={()=>setSelectedCategory("Romance")}>Romance</button>
-<button style={{color: "darkkhaki"}} onClick={()=>setSelectedCategory("Fiction")}>Fiction</button>
-<button style={{color: "darkkhaki"}} onClick={()=>setSelectedCategory("TextBook")}>Textbook</button>
+<button style={{color: "blue"}} onClick={()=>setSelectedCategory("")}>All</button>
+<button style={{color: "blue"}} onClick={()=>setSelectedCategory("Non-Fiction")}>Non-Fiction</button>
+<button style={{color: "blue"}} onClick={()=>setSelectedCategory("Comic")}>Comic</button>
+<button style={{color: "blue"}} onClick={()=>setSelectedCategory("Thiller")}>Thriller</button>
+<button style={{color: "blue"}} onClick={()=>setSelectedCategory("Romance")}>Romance</button>
+<button style={{color: "blue"}} onClick={()=>setSelectedCategory("Fiction")}>Fiction</button>
+<button style={{color: "blue"}} onClick={()=>setSelectedCategory("TextBook")}>Textbook</button>
 </div>
 
 <input type="text" placeholder="Search..." 
