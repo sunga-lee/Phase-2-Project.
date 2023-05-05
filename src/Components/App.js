@@ -1,9 +1,9 @@
 import React, { useState} from 'react'
 import {Switch, Route} from 'react-router-dom'
-import Home from './components/Home'
-import Header from './components/Header'
-import BooksContainer from './components/BooksContainer'
-import AddForm from './components/AddForm'
+import Home from './Home'
+import Header from './Header'
+import BooksContainer from './BooksContainer'
+import AddForm from './AddForm'
 
 function App() {
 
