@@ -1,0 +1,139 @@
+{
+    "Books": [
+      {
+        "id": 1,
+        "title": "The Subtle Art Of Not Giving A Fuck",
+        "author": "Mark Manson",
+        "summary": "A counterintuitive Approach To Living A Good Life.",
+        "category": "Non-Fiction",
+        "image": "https://covers.openlibrary.org/b/id/8231990-M.jpg",
+        "price": 1500
+      },
+      {
+        "id": 2,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "summary": "An Easy And Proven Wyto Build Good Habits and Break ad Ones. ",
+        "category": "Non-Fiction",
+        "image": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
+        "price": 1750
+      },
+      {
+        "id": 6,
+        "title": "ENDLESSLY",
+        "author": "Kiersten White",
+        "summary": "Sixteen-year-old Evie is forced to face the truth about her supernatural past.",
+        "category": "Thiller",
+        "image": "https://covers.openlibrary.org/w/id/8787911-M.jpg",
+        "price": 1500
+      },
+      {
+        "id": "8",
+        "title": "A HUSBANDS PRICE",
+        "author": "Diana Hamilton",
+        "summary": "Two Loves Birds",
+        "category": "Romance",
+        "image": "https://covers.openlibrary.org/w/id/2407332-M.jpg",
+        "price": 2000
+      },
+      {
+        "id": "10",
+        "title": "IT",
+        "author": "Stephen King",
+        "summary": "Scary",
+        "category": "Thiller",
+        "image": "https://covers.openlibrary.org/w/id/8569284-M.jpg",
+        "price": 3000
+      },
+      {
+        "id": "12",
+        "title": "CALCULUS",
+        "author": "Robert Ellis",
+        "summary": "Two Loves Birds",
+        "category": "Textbook",
+        "image": "https://covers.openlibrary.org/w/id/19874-M.jpg",
+        "price": 6000
+      },
+      {
+        "id": "13",
+        "title": "NATURE MATHEMATICS",
+        "author": "Karl j Smith",
+        "summary": "Mathematics",
+        "category": "Textbook",
+        "image": "https://covers.openlibrary.org/w/id/364010-M.jpg",
+        "price": 4000
+      },
+      {
+        "id": "14",
+        "title": "DICTIONARY OF STATISTICS TERMS",
+        "author": "Oliver Boyd",
+        "summary": "Statistics terms",
+        "category": "Textbook",
+        "image": "https://covers.openlibrary.org/w/id/4522317-M.jpg",
+        "price": 3000
+      },
+      {
+        "title": "It Ends With Us",
+        "author": "Coolen Hoover",
+        "summary": "Lily hasn’t always had it easy",
+        "price": "2000",
+        "image": "https://covers.openlibrary.org/b/id/10473609-M.jpg",
+        "category": "Romance",
+        "id": "7mIOYxp"
+      },
+      {
+        "title": "Science and controversey",
+        "author": "A. J. Meadows",
+        "summary": "a biography of Sir Norman Lockyer",
+        "price": "4000",
+        "image": "https://covers.openlibrary.org/w/id/8919212-M.jpg",
+        "category": "TextBook",
+        "id": "UIopgoK"
+      },
+      {
+        "title": "The characteristics of parallel algorithms",
+        "author": "Dennis B. Gannon",
+        "summary": "Algorithms",
+        "price": "2000",
+        "image": "https://covers.openlibrary.org/w/id/7161532-M.jpg",
+        "category": "TextBook",
+        "id": "cj6yCMO"
+      },
+      {
+        "title": "Dead or Alive",
+        "author": "Tom Clancy",
+        "summary": "",
+        "price": "2000",
+        "image": "https://covers.openlibrary.org/b/id/6619036-M.jpg?default=%27https://openlibrary.org/images/icons/avatar_book.png%27",
+        "category": "Fiction",
+        "id": "CndIfei"
+      },
+      {
+        "title": "The Passage",
+        "author": "Justin Cronin",
+        "summary": "",
+        "price": "1500",
+        "image": "https://covers.openlibrary.org/w/id/8261369-M.jpg",
+        "category": "Comic",
+        "id": "iwLs_UP"
+      },
+      {
+        "title": "The Passage",
+        "author": "Justin Cronin",
+        "summary": "",
+        "price": "1500",
+        "image": "https://covers.openlibrary.org/w/id/8261369-M.jpg",
+        "category": "Comic",
+        "id": "iwLs_UP"
+      },
+      {
+        "title": "The characteristics of parallel algorithms",
+        "author": "Dennis B. Gannon",
+        "summary": "Algorithms",
+        "price": "2000",
+        "image": "https://covers.openlibrary.org/w/id/7161532-M.jpg",
+        "category": "TextBook",
+        "id": "cj6yCMO"
+      }
+    ]
+  }
